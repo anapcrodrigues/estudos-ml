@@ -1,14 +1,9 @@
 # Material de estudos sobre Machine Learning
 
 > Material criado a partir das aulas sobre machine learning presentes no bootcamp BairesDev - Machine Learning Practitioner disponível na plataforma [DIO](https://web.dio.me/home).
-> Material criado a partir das aulas do curso Machine Learning Crash Course do Google disponível no [link] (https://developers.google.com/machine-learning/crash-course).
 
 ## 🎯 Objetivo geral
-Criar um local para armazenar conceitos e aplicações de algorítmos de machine learning.
-
-## Conteúdo
-
-* [Regressão linear](regressao-linear.md)
+Criar um local para armazenar projetos e aplicações de algorítmos de machine learning.
 
 ## 📫 Contribuindo para o projeto
 
